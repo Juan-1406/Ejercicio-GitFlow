@@ -193,7 +193,7 @@ Por ejemplo, agrega una breve descripción del sistema en la siguiente sección:
 
 Escribe aquí una descripción breve del sistema:
 
-> Respuesta del estudiante: ...
+> Respuesta del estudiante: El sistema permite calcular el precio final de un producto considerando el tipo de cliente. Se implementó una funcionalidad que otorga un descuento del 15% en caso de ser estudiante.
 
 Luego realice un commit:
 
