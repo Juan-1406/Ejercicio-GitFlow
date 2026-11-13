@@ -274,7 +274,7 @@ Responda las siguientes preguntas directamente en este archivo `README.md`.
 
 ### 1. ¿Cuál es la diferencia entre `main` y `develop` en Git-flow?
 
-Respuesta: La rama main contiene las versiones estables del proyecto listas para producción, mientras que develop se utiliza para poder integrar nuevas funcionalidades que estan en están en desarrollo.
+Respuesta: La rama main contiene las versiones estables del proyecto listas para producción, mientras que develop se utiliza para poder integrar nuevas funcionalidades que están en desarrollo.
 
 ---
 
@@ -298,7 +298,7 @@ Respuesta: Simplemente mueve el puntero de la rama hacia el último commit de la
 
 ### 5. Después del merge, ¿los commits hechos en `feature/descuento-estudiante` quedan en el historial de `develop`?
 
-Respuesta: Si, permanecen en el historial de develop después del merge incluso si se elimina la rama feature.
+Respuesta: Sí, permanecen en el historial de develop después del merge incluso si se elimina la rama feature.
 
 ---
 
@@ -310,7 +310,7 @@ Respuesta: Permite preparar una nueva versión estable del sistema, realizando c
 
 ### 7. ¿Es posible usar Integración Continua con Git-flow? Justifica brevemente.
 
-Respuesta: Si, mediante herramientas como GitHub Actions que permiten ejecutar pruebas automatizadas cuando se realizan cambios en las ramas del proyecto, esto aydua a detectar errores antes de integrar nuevas funcionalidades o publicar versiones estables.
+Respuesta: Sí, mediante herramientas como GitHub Actions que permiten ejecutar pruebas automatizadas cuando se realizan cambios en las ramas del proyecto, esto aydua a detectar errores antes de integrar nuevas funcionalidades o publicar versiones estables.
 
 ---
 
